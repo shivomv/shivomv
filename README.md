@@ -22,7 +22,7 @@ const Introduction = {
   name: "Shivom Verma",
   title: "Full Stack Developer",
   skills: {
-    languages: ["MERN", "PHP", "HTML", "CSS", "JavaScript"],
+    languages: ["MERN", "PHP", "HTML", "CSS", "JavaScript", "C#", "Python"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
   },
   education: {
