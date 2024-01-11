@@ -25,10 +25,6 @@ const Introduction = {
     languages: ["MERN", "PHP", "HTML", "CSS", "JavaScript"],
     expertise: ["RESTful APIs", "Innovative Web Applications"]
   },
-  experience: [
-    { position: "Software Engineer", duration: "2 years" },
-    { position: "Frontend Developer", duration: "1.5 years" }
-  ],
   education: {
     degree: "B.Tech",
     university: "Dr. A.P.J. Abdul Kalam Technical University",
