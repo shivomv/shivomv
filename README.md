@@ -128,7 +128,7 @@ console.log(Introduction);
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <!-- This part will be dynamically replaced by your script -->
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
