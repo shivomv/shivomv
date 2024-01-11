@@ -99,7 +99,7 @@ console.log(Introduction);
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/shivomv/Awesome-Dev-Portfolios">
+        <a href="https://github.com/shivomv/shivomv">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=shivomv&repo=shivomv&theme=nightowl&show_owner=true" alt="shivomv" />
         </a>
       </p>
